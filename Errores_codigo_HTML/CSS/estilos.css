@@ -1,0 +1,12 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}table, th,td{
+    border-collapse:collapse ;
+}
+/*.container-fluid{
+    border : 10px solid #560bad;
+    background-color: #f1faee;
+    text-align: center;
+}*/
